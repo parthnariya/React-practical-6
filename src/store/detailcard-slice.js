@@ -18,4 +18,4 @@ const cardSlice = createSlice({
     }
 })
 export const cardActions = cardSlice.actions
-export default cardSlice
+export default cardSlice.reducer

@@ -48,7 +48,7 @@ const UserCard = (props) => {
           onMouseEnter={mouseHoverhandler}
           onMouseLeave={mouseLeavehandler}
           height= '3rem'
-          border = '1.5rem'
+          width='3rem'
         />
         <NameContainer>
           <h4>{props.name}</h4>

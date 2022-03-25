@@ -14,7 +14,7 @@ const UserDetailCard = (props) => {
       <ProfilePicture
         src={props.avatar}
         height="6.5rem"
-        border="3.25rem"
+        width="6.5rem"
         alt={props.name}
       />
       <UserInfo name={props.name} email={props.email}/>

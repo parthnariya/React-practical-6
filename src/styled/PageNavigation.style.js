@@ -10,6 +10,7 @@ const PageNavigationStyle = styled.div`
   align-self: center;
   bottom: 10%;
   & .Button{
+    background-color: whitesmoke;
     cursor: pointer;
     display: flex;
     align-items: center;
